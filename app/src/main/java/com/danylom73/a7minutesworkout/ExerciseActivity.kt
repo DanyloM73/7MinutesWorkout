@@ -127,7 +127,7 @@ class ExerciseActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
         interval: Int = 1,
         onFinish: () -> Unit
     ): CountDownTimer {
-        return object : CountDownTimer((time * 100).toLong(), (interval * 100).toLong()) {
+        return object : CountDownTimer((time * 1000).toLong(), (interval * 1000).toLong()) {
             override fun onTick(p0: Long) {
                 progressValue++
                 binding.progressBar.progress = time - progressValue
