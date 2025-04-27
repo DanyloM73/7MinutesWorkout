@@ -12,6 +12,10 @@
 - View binding
 - TextToSpeech
 
+*This project was developed as part of The Complete Android 14 & Kotlin Development Masterclass by TutorialsEU*
+
+*Minimum supported Android version is **Android 7 (Nougat)***
+
 ## Illustrations
 
 ### Start screen
@@ -20,11 +24,11 @@
 
 ### Exercise screen
 
-<img src="images/2.png" alt="Start screen" width=301>
+<img src="images/2.png" alt="Start screen" width=295>
 
 ### Finish screen
 
-<img src="images/3.png" alt="Start screen" width=301>
+<img src="images/3.png" alt="Start screen" width=295>
 
 ### BMI calculation
 
@@ -32,4 +36,4 @@
 
 ### History screen
 
-<img src="images/5.png" alt="Start screen" width=301>
+<img src="images/5.png" alt="Start screen" width=293>
